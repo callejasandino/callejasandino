@@ -18,11 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/miguelcalleja11/">Facebook</a>
+  <a href="https://www.facebook.com/miguelcalleja11/" target="_blank">Facebook</a>
   <br />
-  <a href="https://www.facebook.com/miguelcalleja11/">Instagram</a>
-  <br />
-  <a href="skype:live:.cid.9945f3ffa647087d?add">Skype</a>
+  <a href="https://www.instagram.com/miguelcalleja75/" target="_blank">Instagram</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
