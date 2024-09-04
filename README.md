@@ -3,8 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Miguel Sandino Calleja</h1>
+<br />
 <h3 align="center">Focused Software Developer with a proven track record in Web Development. Demonstrates strong expertise in Laravel and Vue JS, delivering exceptional results. A dedicated and adaptable individual who thrives in fast-paced environments, consistently driving success through strategic thinking and effective collaboration</h3>
 
+<br />
+<br />
 - 🔭 I’m currently working on **Blueworks**
 
 - 🌱 I’m currently learning **React and Next JS**
@@ -15,6 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.facebook.com/miguelcalleja11/">Facebook</a>
+  <br />
+  <a href="https://www.facebook.com/miguelcalleja11/">Instagram</a>
+  <br />
+  <a href="skype:live:.cid.9945f3ffa647087d?add">Skype</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
