@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://drive.google.com/file/d/1OB44ll66bgnQbgZEGKC1t98sbgpPRhlj/view?usp=sharing" width="100" height="100">
+</p>
+
 <h1 align="center">Hi 👋, I'm Miguel Sandino Calleja</h1>
 <h3 align="center">Focused Software Developer with a proven track record in Web Development. Demonstrates strong expertise in Laravel and Vue JS, delivering exceptional results. A dedicated and adaptable individual who thrives in fast-paced environments, consistently driving success through strategic thinking and effective collaboration</h3>
 
